@@ -1,0 +1,11 @@
+[Lens]
+DBusName=unity.singlet.lens.dilmaj
+DBusPath=/unity/singlet/lens/dilmaj
+Name=Dilmaj
+Icon=/usr/share/unity/lenses/dilmaj/unity-lens-dilmaj.svg
+Description=Dilmaj Lens
+SearchHint=Search Dilmaj
+#Shortcut=c
+
+[Desktop Entry]
+X-Ubuntu-Gettext-Domain=unity-dilmaj

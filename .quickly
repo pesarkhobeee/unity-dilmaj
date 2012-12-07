@@ -1,0 +1,4 @@
+project = unity-dilmaj
+version = 12.04
+template = unity-lens
+version_ubuntu-application = 12.04

@@ -1,0 +1,10 @@
+Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: unity-dilmaj
+Upstream-Contact: Farid Ahmadian <pesarkhobeee@gmail.com>
+Source: https://github.com/pesarkhobeee/unity-dilmaj
+
+Files: *
+Copyright: (C) 2012 <Farid Ahmadian> <pesarkhobeee@gmail.com>
+License: GPL-2
+ The full text of the GPL is distributed in
+ /usr/share/common-licenses/GPL-2 on Debian systems.
